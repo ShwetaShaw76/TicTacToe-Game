@@ -80,3 +80,18 @@
     box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.5);
     color: skyblue;
 }
+#sound{
+    font-size: 3rem;
+}
+.audio{
+    width: 4vw;
+    height: 7vh;
+    border-radius: 50%;
+    box-shadow: 0px 2px 2px 4px purple;
+    margin-left: 10vw;
+}
+.audiosrc{
+    position: fixed;
+    x: -9000px;
+    y: -9000px;
+}
